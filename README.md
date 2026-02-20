@@ -1,5 +1,3 @@
-# bouR37
-
 # 💫 About Me:
  Hi, I’m Bourice Racheal👋<br><br>🔐Entry-Level Cybersecurity Analyst<br>🛡Aspiring SOC / Blue Team Analyst <br>🎯Focused on Defensive Security & Threat Detection<br><br>I recently completed a cybersecurity masterclass at AfricaHackon where I built foundational knowledge in; 
 - Linux Fundamentals (CLI navigation, permissions, processes)
